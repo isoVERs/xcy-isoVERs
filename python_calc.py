@@ -8,5 +8,5 @@ window.title("this is a test window")
 window.geometry("480x400")
 #设置窗口的width不可变，height可变
 window.resizable(width=False,height=True)
-#将窗口进行无线循环
+#将窗口进行无限循环
 window.mainloop()
